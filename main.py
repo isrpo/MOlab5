@@ -6,6 +6,7 @@ from sklearn.metrics import mean_squared_log_error as RMSLE
 from sklearn.metrics import accuracy_score
 import xgboost as xgb
 
+# test solving issue
 class ML:
     def __init__(self):
         super().__init__()
